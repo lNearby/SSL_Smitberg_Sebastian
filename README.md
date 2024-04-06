@@ -1,1 +1,1 @@
-# SSL_Smitberg_Sebastian
+Repositorio creado para la cursada de sintaxis y semantica de los lenguaje 2024
